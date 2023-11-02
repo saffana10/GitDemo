@@ -73,4 +73,5 @@ def function(n):
 
 print()
 
-
+print("123")
+print("abc")
